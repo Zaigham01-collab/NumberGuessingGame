@@ -1,5 +1,5 @@
 import random
-
+print("Fantastic Game...")
 randomnumber = random.randint(1,10)
 count = 0
 print("Guessing Number Game")
